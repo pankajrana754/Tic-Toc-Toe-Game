@@ -1,0 +1,25 @@
+.grid{
+   height: 500px;
+   width: 500px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+
+   
+}
+.turn-highlight{
+    color:white;
+}
+
+.reset{
+    padding:5px;
+    width: 100px;
+    height: 30px;
+    border: 2px solid #0cbb69;
+    color:black;
+    background-color: white;
+    font-size: 23px;
+    font-style: italic;
+    text-align: center;
+}
